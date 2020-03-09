@@ -1,0 +1,32 @@
+.btn1 {
+       -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+       border-radius: 10px;
+       height: 50px;
+       line-height: 50px;
+       color: #000000;
+       font-family: serif;
+       width: 200px;
+       font-size: 20px;
+       font-weight: 100;
+       padding: 16px;
+       background-color: #EDF0F4;
+       box-shadow: 1px 1px 20px 0px #000000;
+       -webkit-box-shadow: 1px 1px 20px 0px #000000;
+       -moz-box-shadow: 1px 1px 20px 0px #000000;
+       text-shadow: 1px 1px 20px #000000;
+       border: solid #27282A 3px;
+       text-decoration: none;
+       display: inline-block;
+       cursor: pointer;
+       text-align: center;
+    }
+
+    .btn1:hover {
+       background: #151518;
+       border: solid #EFF1F4 2px;
+       -webkit-border-radius: 10px;
+       -moz-border-radius: 10px;
+       border-radius: 10px;
+       text-decoration: none;
+                 }
