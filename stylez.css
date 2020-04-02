@@ -32,7 +32,13 @@
     margin-left: 12%;
 
 }
-
+.work{
+    background-color: transparent;border-radius: 5px;color: #ffffff;padding:4% 4%;z-index: 2;margin-left: 40%;position: absolute;margin-top: 10%;
+}
+.work:hover{
+    background-color: #ffffff;
+    color: black;
+}
     
 
     
